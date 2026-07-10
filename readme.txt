@@ -1,3 +1,5 @@
+Moved to https://codeberg.org/simonlaszcz/mchcste
+
 HDDRIVER will set the IDE flag of the
 _MCH cookie on an STE equipped with IDE
 drives.
